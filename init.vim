@@ -26,7 +26,7 @@ nnoremap <C-t> :NERDTreeToggle<CR>
 
 
 "i stole this config from a YouTuber called NeuralNine and removed something
-"from it to make customize my own.
+"from it to make make my own.
 
 
 "i barely use neovim and not just for coding but for note since i don't have 
